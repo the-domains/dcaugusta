@@ -1,0 +1,23 @@
+name: DCAugusta
+favicon: null
+layout_spectrum: 0.7024947637692094
+typography_spectrum: 0.7872676395345479
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03818324487656355
+  lightness: 0.6518203762825578
+  saturation: 0.3320915405638516
+  rhythmicContrast: 0.8358362452127039
+purpose: []
