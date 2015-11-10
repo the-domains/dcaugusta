@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DCAugusta]]></title>
         <description><![CDATA[DCAugusta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dcaugusta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 03:32:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 03:45:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dcaugusta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo Booth Fung]]></title>
+            <description><![CDATA[<article><h1>Photo Booth Fung</h1><p>The booth at The Vineyard Church of Augusta's Single Parent Fair.</p><img src="https://scontent.xx.fbcdn.net/hphotos-xta1/t31.0-0/q81/p180x540/12186455_897838463639874_8455555223656084456_o.jpg"></article>]]></description>
+            <link>https://www.facebook.com/DecoloresProductions/photos/pcb.897838903639830/897838463639874/?type=3</link>
+            <guid isPermaLink="false">db958a97-4fab-4022-ba8a-6bf5e3632097</guid>
+            <pubDate>Tue, 10 Nov 2015 03:44:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Professional Photo Booth Patrons]]></title>
             <description><![CDATA[<article><h1>Professional Photo Booth Patrons</h1><p>A great video showing "Professional Photo Booth Patrons" busy taking pictures at a wedding.</p><img src="https://i.ytimg.com/vi/HBfMfaAHL0g/hqdefault.jpg"></article>]]></description>
